@@ -4,6 +4,8 @@ Random Quotes
 
 # for developers
 
+Clone this project and install the following:
+
 # install the Express framework globally using NPM so that it can be used to create a web application using node terminal
 
 npm install express --save
@@ -19,3 +21,7 @@ npm install body-parser --save
 # multer − This is a node.js middleware for handling multipart/form-data.
 
 # npm install multer --save
+
+# to start the server
+
+node server.js
