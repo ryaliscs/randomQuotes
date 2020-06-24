@@ -8,10 +8,9 @@ Random Quotes
 
 1. Clone this project
 2. npm install
-3. npm install nodemon --save-dev
-4. npm start
+3. npm start
 
-## setup notes
+## inital setup notes
 
 # install the Express framework globally using NPM so that it can be used to create a web application using node terminal
 
