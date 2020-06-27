@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const app = express();
 const fs = require("fs");
 
-// app.use("/public", express.static(__dirname + "public"));
+// serve static resources
 app.use(express.static("public"));
 
 // set the port of our application
