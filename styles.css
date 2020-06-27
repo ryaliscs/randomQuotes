@@ -1,0 +1,33 @@
+
+
+#panel {
+  padding: 100px;
+  text-align: center;
+  text-decoration-color: white;
+}
+
+.quotePanel {
+  background-color: black;
+}
+
+.authorPanel {
+    background-color: white;
+}
+
+#quote {
+    color: wheat;
+    font-size: 100px;
+}
+
+
+#panel {
+  padding: 500x;
+  display: none;
+}
+
+#author {
+  color: black;
+  font-size: 100px;
+  text-align: right;
+  padding-right: 50px;
+}
