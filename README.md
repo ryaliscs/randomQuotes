@@ -28,6 +28,6 @@ Nodemon is super helpful because it acts as a file-watcher, reloading our server
 
 ##### Refernces
 
-[Code Example Reference](https://robkendal.co.uk/blog/how-to-build-a-restful-node-js-api-server-using-json-files/)
+[Code Example Reference - By **Rob Kendal**](https://robkendal.co.uk/blog/how-to-build-a-restful-node-js-api-server-using-json-files/)
 
 [Heroku Deployment References](https://devcenter.heroku.com/articles/deploying-nodejs#:~:text=Run%20the%20npm%20install%20command,json%20file.&text=Start%20your%20app%20locally%20using,part%20of%20the%20Heroku%20CLI.&text=Your%20app%20should%20now%20be,http%3A%2F%2Flocalhost%3A5000%2F)
