@@ -7,10 +7,12 @@ const quoteRoutes = (app, fs) => {
         throw err;
       }
       var jsonData = JSON.parse(data);
-      console.log("Total Quotes: " + jsonData.quotes.length);
       var random = Math.floor(Math.random() * jsonData.quotes.length);
       var quote = jsonData.quotes[random];
-      console.log("Quote sent " + quote.quote + " - by " + quote.by);
+      console.log(
+        "Total Quotes: " + jsonData.quotes.length + " Picked :" + random
+      );
+      // console.log("Quote sent " + quote.quote + " - by " + quote.by);
       res.send(quote);
     });
   });
