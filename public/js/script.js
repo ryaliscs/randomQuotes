@@ -4,7 +4,7 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-  setInterval(getQuote, 4000);
+  setInterval(getQuote, 6000);
 });
 
 function getQuote() {
