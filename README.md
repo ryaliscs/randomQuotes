@@ -1,6 +1,11 @@
 # randomQuotes
 
 > **_To show randam quotes._**
+> This is a experiment project to build a simple application using node+jQuery+HTML, with node as backend with file stoage in json format to store the quotes.
+
+### version
+
+> 1.0 [Show quotes which change randomly at regular interval]
 
 ## Setting up this project
 
@@ -9,6 +14,14 @@
 3. npm start
 
 ### Inital setup notes for developers
+
+#### Libraries used
+
+```
+Node.js
+jQuery
+HTML
+```
 
 install the Express framework globally using NPM so that it can be used to create a web application using node terminal
 
