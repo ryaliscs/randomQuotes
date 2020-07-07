@@ -6,10 +6,12 @@
 
 .quotePanel {
   background-color: black;
+  height: 550px;
 }
 
 .authorPanel {
   background-color: white;
+  height: 20px;
 }
 
 #quote {
@@ -24,13 +26,13 @@
 
 #author {
   color: black;
-  font-size: 100px;
+  font-size: 50px;
   text-align: right;
   padding-right: 50px;
 }
 
 @media only screen and (max-width:768px) {
   /*for mobiles*/
-  #quote {font-size: 60px;}
-  #author { font-size: 60px;}
+  #quote {font-size: 80px; height: 300px;}
+  #author { font-size: 30px;}
 }
