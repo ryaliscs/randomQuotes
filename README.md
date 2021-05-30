@@ -37,6 +37,8 @@ Nodemon is super helpful because it acts as a file-watcher, reloading our server
 
 ### Deploying in heroku (for public git repos)
 
+Prerequisite: Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
 `git push heroku master`
 
 ##### Refernces
